@@ -14,6 +14,7 @@ class Game {
     void takeInputNumber() {
         Scanner sc = new Scanner(System.in);
         inputNumber = sc.nextInt();
+        sc.close();
     }
     //method for checking the number
     boolean isCorrectNumber() {

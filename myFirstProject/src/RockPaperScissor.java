@@ -14,6 +14,7 @@ public class RockPaperScissor {
 
             Scanner sc = new Scanner(System.in);
             int player1 = sc.nextInt();
+            sc.close();
             switch (player1) {
                 case 0 -> System.out.printf("You entered %d i.e Rock\n", player1);
                 case 1 -> System.out.printf("You entered %d i.e Paper\n", player1);
@@ -51,6 +52,7 @@ public class RockPaperScissor {
         }
 
 
-
     }
+    
+
 }
