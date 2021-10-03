@@ -24,11 +24,14 @@ public class App {
     public static void main(String[] args) throws Exception {
         
         
-        System.out.println("Hello, World!");
-        testClass t1=new testClass();
-        t1.meth3();
-        // t1.meth();
-        testClass.meth();
+        
+        
+        
+        // System.out.println("Hello, World!");
+        // testClass t1=new testClass();
+        // t1.meth3();
+        // // t1.meth();
+        // testClass.meth();
         // testClass.meth();
        
 }
