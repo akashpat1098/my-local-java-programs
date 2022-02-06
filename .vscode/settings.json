@@ -2,5 +2,6 @@
     "java.project.sourcePaths": [
         "myFirstProject\\src",
         "mySecondProject\\src"
-    ]
+    ],
+    "java.project.outputPath": "myFirstProject\\bin"
 }
